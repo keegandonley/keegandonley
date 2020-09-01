@@ -1,9 +1,9 @@
-### 🎉 Welcome! I'm Keegan...
+### 🎉&nbsp; Welcome! I'm Keegan...
 
-👨🏻‍💻 Developer @ [Pinpoint Software](https://github.com/pinpt)
+👨🏻‍💻 &nbsp; Developer @ [Pinpoint Software](https://github.com/pinpt)
 
-🌲  Lover of the outdoors
+🌲  &nbsp; Lover of the outdoors
 
-🦕  Occasional Deno developer
+🦕 &nbsp; Occasional Deno developer
 
-📚  Always learning
+📚 &nbsp; Always learning
