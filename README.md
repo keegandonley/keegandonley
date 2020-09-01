@@ -7,3 +7,5 @@
 🦕 &nbsp; Occasional Deno developer
 
 📚 &nbsp; Always learning
+
+[<img src="/profile.png"></img>](https://pinpoint.com/@k)
