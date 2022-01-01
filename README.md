@@ -1,6 +1,6 @@
 ## 👋🏼 &nbsp; Hello and Welcome!
 
-Software Engineer [@pinpt](https://github.com/pinpt)
+Senior Frontend Engineer [@kizen](https://github.com/kizen)
 
 [keegandonley.com](https://keegandonley.com)
 
