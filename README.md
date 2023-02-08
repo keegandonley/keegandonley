@@ -14,6 +14,8 @@ Senior Front-End Engineer [@kizen](https://github.com/kizen) | [keegandonley.com
 
 [My blog](https://keegandonley.com/blog) contains my writings and thoughts on a number of different topics, from software development, to fitness, to hobby electronics and more!
 
+### [Filling in the Connected Fitness Gaps with Apple Shortcuts](https://keegandonley.com/blog/filling-in-the-connected-fitness-gaps-with-apple-shortcuts)
+### [Review Your Own Pull Requests](https://keegandonley.com/blog/review-your-own-pull-requests)
 ### [Using AI to Generate DALL·E 2 Prompts](https://keegandonley.com/blog/using-ai-to-generate-dall-e-2-prompts)
 ### [ChatGPT Writes Poems About the Internet](https://keegandonley.com/blog/chatgpt-writes-poems-about-the-internet)
 ### [Statically Generating Twitter Embeds and Sharing for a Performance Boost](https://keegandonley.com/blog/statically-generating-twitter-embeds-and-sharing-for-a-performance-boost)
