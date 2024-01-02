@@ -1,6 +1,6 @@
 ## 👋🏼 &nbsp; Hello and Welcome!
 
-Principal Front-End Engineer [@kizen](https://github.com/kizen) | [keegandonley.com](https://keegandonley.com)
+Principal Front-End Engineer [@kizen](https://github.com/kizen) | [keegan.codes](https://keegan.codes)
 
 <hr>
 
@@ -12,4 +12,4 @@ Principal Front-End Engineer [@kizen](https://github.com/kizen) | [keegandonley.
 
 <hr>
 
-[My blog](https://keegandonley.com/blog) contains my writings and thoughts on a number of different topics, from software development, to connected fitness, to hobby electronics and more!
+[My blog](https://keegandonley.com/blog) contains my writings and thoughts on a number of different topics, from software development to connected fitness, hobby electronics, and more!
