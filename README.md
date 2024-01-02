@@ -1,6 +1,6 @@
 ## 👋🏼 &nbsp; Hello and Welcome!
 
-Senior Front-End Engineer [@kizen](https://github.com/kizen) | [keegandonley.com](https://keegandonley.com)
+Principal Front-End Engineer [@kizen](https://github.com/kizen) | [keegandonley.com](https://keegandonley.com)
 
 <hr>
 
